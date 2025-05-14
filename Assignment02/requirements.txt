@@ -1,0 +1,4 @@
+mljar-supervised==1.1.17
+scikit-learn>=1.2
+pandas>=1.5
+matplotlib>=3.7
